@@ -127,3 +127,5 @@ dmypy.json
 
 *.p
 Slides/*.svs
+TrainPatches/*.png
+temp_*.py
